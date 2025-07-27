@@ -7,6 +7,8 @@
 | 2025-07-02 | Introduzione al corso, presentazione obiettivi   | ///                                 |
 | 2025-07-21 | Ripasso Excel + test a crocette                  | `incontro 01/01_Ripasso_excel.xlxs` |
 | 2025-07-21 | Introduzione agli algoritmi + Algobuild (1/2)    | `incontro 01/02_Algoritmi`          |
+| 2025-07-24 | Algobuild (2/2): Array, Cicli For e Cicli While  | `incontro 02/00_Algoritmi`          |
+
 
 ---
 
@@ -16,6 +18,8 @@
 
 1. Ricopiare il foglio prestrutturato
 2. Svolgere il quiz a crocette. [Link](https://forms.gle/GhKXBwP3xM1ncfva8)
+
+### Algobuild
 
 Le soluzioni di ogni esercizio si possono trovare all'interno dell'apposita cartella.
 
@@ -41,3 +45,35 @@ Le soluzioni di ogni esercizio si possono trovare all'interno dell'apposita cart
 5. Dati due numeri A e B verificare se A è il quadrato di B.
 
 📌 *I compiti vanno inviati tramite WhatsApp o E-Mail [viglioneraff@gmail.com] entro la mezzanotte del giorno prima della lezione.
+
+---
+
+## 🧠 Esercizi svolti lezione 2
+
+### Algobuild
+
+Le soluzioni di ogni esercizio si possono trovare all'interno dell'apposita cartella.
+
+1. L'ho perso -_- (molto professional, lo ammetto)
+2. Prendere in input 5 numeri e sommare solo quelli positi.
+3. Prendere in input 15 numeri e calcolarne la media.
+4. Calcola la successione di Fibonacci di un numero n di valori.
+5. Creare un array di 5 elementi. Chiedere in input il valore.
+6. Riempi un array di n elementi e poi calcola la media dei valori.
+7. Verifica se due numeri sono "amicabili" (la somma dei loro divisori è uguale all'altro).
+
+---
+
+## 🏠 Compiti assegnati per casa
+
+1. Prendere in input 10 numeri e contare quanti numeri pari e quanti dispari sono stati inseriti.
+2. Inserire 10 numeri e sommare solo quelli compresi tra 50 e 100.
+3. Calcola la media di tutti i valori di un array.
+4. Dato un numero in input, verificare se è definibile "matematicamente perfetto".
+5. Inserire 8 numeri e calcolare la somma di quelli nelle posizioni pari
+6. Trovare tutti i divisori di un numero.
+7. Chiede due valori in input: valore e indice. Inserire all'interno di un array, il valore specificato all'indice specificato e inserire "1" in tutte le altre posizioni.
+8. Trovare tutti i numeri primi da 0 a un numero n inserito in input.
+9. Inserire 5 numeri e poi stampare l’array in ordine inverso.
+
+📌 *I compiti vanno inviati tramite WhatsApp o E-Mail [viglioneraff@gmail.com] entro la mezzanotte del giorno prima della lezione. Ricordarsi di salvari come formato immagine png.
