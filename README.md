@@ -66,6 +66,8 @@ Le soluzioni di ogni esercizio si possono trovare all'interno dell'apposita cart
 
 ## 🏠 Compiti assegnati per casa
 
+Visto che li ho inseriti veramente tardi, puoi non farli tutti. Non ti preoccupare, basta che ne fai almeno 4/5; a tua discrezione.
+
 1. Prendere in input 10 numeri e contare quanti numeri pari e quanti dispari sono stati inseriti.
 2. Inserire 10 numeri e sommare solo quelli compresi tra 50 e 100.
 3. Calcola la media di tutti i valori di un array.
