@@ -1,6 +1,4 @@
-# 📘 Ripasso Federico
-
-## 📅 Registro delle lezioni
+# Registro
 
 | Data       | Argomento trattato                              | File lezione                        |
 |------------|-------------------------------------------------|-------------------------------------|
@@ -8,17 +6,20 @@
 | 2025-07-21 | Ripasso Excel + test a crocette                 | `incontro 01/01_Ripasso_excel.xlxs` |
 | 2025-07-21 | Introduzione agli algoritmi + Algobuild (1/2)   | `incontro 01/02_Algoritmi`          |
 | 2025-07-24 | Algobuild (2/2): Array, Cicli For e Cicli While | `incontro 02/00_Algoritmi`          |
-| 2025-07-31 | Introduzione a Python: dalle basi agli if       | `incontro 03/00_Python`             |
+| 2025-07-30 | Introduzione a Python: dalle basi agli if       | `incontro 03/00_Python`             |
+| 2025-07-31 | Esercizi Python dalle basi ai for               | ///                                 |
+| 2025-08-06 | Esercizi Python dalle basi ai for               | ///                                 |
+
 
 ---
 
-## 🧠 Esercizi svolti - Lezione 1
+# Lezione 1
 
-### 🟦 Excel
+### Excel
 1. Ricopiare il foglio prestrutturato  
 2. Svolgere il quiz a crocette 👉 [Link al quiz](https://forms.gle/GhKXBwP3xM1ncfva8)
 
-### 🟨 Algobuild
+### Algobuild
 Le soluzioni si trovano nell’apposita cartella.
 
 1. Calcola il perimetro di un triangolo  
@@ -30,13 +31,11 @@ Le soluzioni si trovano nell’apposita cartella.
 7. Data una temperatura T, visualizzare se si tratta di una temperatura: “sotto lo zero”, “uguale a zero” o “sopra lo zero”. Visualizzare il messaggio in output.  
 8. Scrivere un algoritmo che, dati base e altezza di un triangolo, calcoli l’area se sono entrambi positivi, oppure stampi il messaggio “Valori di input errati”.  
 9. Minore tra due numeri  
-10. Massimo tra tre numeri  
+10. Massimo tra tre numeri 
 
----
+## 🏠 Compiti per casa
 
-## 🏠 Compiti per casa - Lezione 1
-
-> 📌 *I compiti vanno inviati tramite WhatsApp o E-Mail [viglioneraff@gmail.com] entro la mezzanotte del giorno prima della lezione.*
+> 📌 *Invio via WhatsApp o E-Mail [viglioneraff@gmail.com] entro la mezzanotte del giorno prima della lezione. Ricordarsi di salvarli come **formato immagine .png**.*
 
 1. Stabilire se un angolo è acuto, ottuso o retto  
 2. Dati due numeri naturali X e Y, aggiungere al più piccolo la somma dei due numeri, se uguali sommarli semplicemente  
@@ -46,10 +45,8 @@ Le soluzioni si trovano nell’apposita cartella.
 
 ---
 
-## 🧠 Esercizi svolti - Lezione 2
-
-### 🟨 Algobuild
-Le soluzioni si trovano nell’apposita cartella.
+# Lezione 2 - Algobuild
+> Le soluzioni si trovano nell’apposita cartella.
 
 1. L'ho perso -_- (molto professional, lo ammetto)  
 2. Prendere in input 5 numeri e sommare solo quelli positivi  
@@ -58,8 +55,6 @@ Le soluzioni si trovano nell’apposita cartella.
 5. Creare un array di 5 elementi. Chiedere in input il valore  
 6. Riempi un array di n elementi e poi calcola la media dei valori  
 7. Verifica se due numeri sono "amicabili" (la somma dei loro divisori è uguale all'altro)  
-
----
 
 ## 🏠 Compiti per casa - Lezione 2
 
@@ -78,19 +73,44 @@ Le soluzioni si trovano nell’apposita cartella.
 
 ---
 
-## 🧠 Esercizi svolti - Lezione 3
+# Lezione 3 - Python
 
-### 🐍 Python
+> Per questa e la prossima lezione, gli esercizi fatti insieme saranno sostanzialmente gli stessi esercizi fatti su algobuild così che la logia sia già stata vista.
 
-*(Nessun esercizio elencato nel file di lezione — probabilmente svolti live)*
+Si è corrotto il file e ho perso gli esercizi
+
+## 🏠 Compiti per casa
+
 
 ---
 
-## 🏠 Compiti per casa - Lezione 3
+# Lezione 4 - Python
 
-> 📌 *I compiti vanno inviati tramite WhatsApp o E-Mail [viglioneraff@gmail.com] entro la mezzanotte del giorno prima della lezione. Ricordarsi di salvarli come **formato immagine .png**.*
+Si è corrotto il file e ho perso gli esercizi
 
-1. Scrivi un programma che chieda due numeri all'utente tramite la funzione input e mostri il più grande tra i due utilizzando la funzione print  
-2. Scrivi un programma che chieda tre numeri a, b, c all'utente e mostri il più grande tra loro  
-3. Scrivi un programma che chieda all'utente una stringa composta da un solo carattere e dica se si tratta di una vocale oppure no  
-4. Scrivi una funzione che, a scelta dell'utente, calcoli l'area di cerchio, triangolo o quadrato. Scegli tu come gestire la scelta  
+### 🏠 Compiti per casa
+
+> 📌 *I compiti vanno inviati tramite WhatsApp o E-Mail [viglioneraff@gmail.com] entro la mezzanotte del giorno prima della lezione. Ricordarsi di commentare le righe.*
+
+1. Chiedi all’utente due numeri e un’operazione (somma, sottrazione, moltiplicazione o divisione). Esegui l’operazione scelta e mostra il risultato. Se l’operazione non è valida, mostra un messaggio. 
+2. Genera un numero casuale tra 1 e 100. Fai in modo che l’utente lo indovini con tentativi ripetuti. Dopo ogni tentativo, indica se il numero è troppo alto o troppo basso. Quando lo indovina, stampa il numero di tentativi usati.
+3. Chiedi all’utente di inserire una parola e stampala al contrario. Ci sono due modi per risolverlo, fallo in entrambi
+4. Simula un sistema di login: la username è "admin" e la password "1234". L’utente ha al massimo 3 tentativi per inserire le credenziali corrette. Dopo il terzo errore, il programma blocca l’accesso.
+
+---
+
+# Lezione 5 - Python
+
+1. Stampa singolarmente ogni elemento di una lista
+2. Data una sequenza di n coppie di numeri interi, calcola per ciascuna coppia la somma dei due numeri e determina: quante somme sono maggiori di 0; quante somme sono uguali a 0; quante somme sono minori di 0.
+3. Chiedi una parola e verifica se è un palindromo (es. "anna", "radar", "osso").
+4. Chiedi un numero intero e calcola la somma di tutte le sue cifre (es. 1234 → 1+2+3+4 = 10).
+5. Chiedi una frase e una lettera. Conta quante volte la lettera appare nella frase.
+6. Inserisci N numeri in una lista e trova il secondo numero più grande.
+7. Chiedi una parola e stampa la posizione della prima vocale trovata.
+8. Crea una lista di numeri e verifica se sono in ordine crescente.
+9. Dato un array di n elementi presi in input, scambia l'elemento nell'ultima posizione con quello all'inizio.
+
+### 🏠 Compiti per casa
+
+Essendo la prossima lezione letteralmente domani, preferisco non assegnare nulla. Se vuoi allenarti, scrivi tipo 57 volte l'algoritmo per riempire una lista di N valori con N input.
